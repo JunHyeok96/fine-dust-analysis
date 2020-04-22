@@ -33,6 +33,11 @@
 
 ![image](https://user-images.githubusercontent.com/52908154/80013488-ed42cf80-8509-11ea-84da-d01da5f3385b.png)
 
+
+<img src = "https://user-images.githubusercontent.com/52908154/80015571-e9647c80-850c-11ea-9e96-0a485e171229.png" width = 30%><img>
+<img src = "https://user-images.githubusercontent.com/52908154/80015607-f71a0200-850c-11ea-9098-d0213fbfad9d.png" width = 30%><img>
+
+
 ![image](https://user-images.githubusercontent.com/52908154/80013583-11061580-850a-11ea-9313-82502557d8f3.png)
 
 * #### Variation by item
