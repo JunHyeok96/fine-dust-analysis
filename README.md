@@ -4,8 +4,8 @@
 
 ### floating population analysis
 
-<img src = "https://user-images.githubusercontent.com/52908154/80012976-1d3da300-8509-11ea-8e8e-37b431bcb610.png" width = 45%><img>
-<img src = "https://user-images.githubusercontent.com/52908154/80013066-43634300-8509-11ea-8e92-dc1d47be9dbd.png" width = 50%><img>
+<img src = "https://user-images.githubusercontent.com/52908154/80012976-1d3da300-8509-11ea-8e8e-37b431bcb610.png" width = 30%><img>
+<img src = "https://user-images.githubusercontent.com/52908154/80013066-43634300-8509-11ea-8e92-dc1d47be9dbd.png" width = 33%><img>
 
 * #### Changes in the Flowing Population by Time Zone/gender/Weekly and Holiday according to Fine Dust Concentration
 * #### Changes in the Flowing Population by age/gender/Weekly According to Fine Dust Concentration
@@ -32,11 +32,9 @@
 * ####  Consumption Changes due to Fine Dust
 
 
-<img src = "https://user-images.githubusercontent.com/52908154/80015571-e9647c80-850c-11ea-9e96-0a485e171229.png" width = 30%><img>
+<img src = "https://user-images.githubusercontent.com/52908154/80015571-e9647c80-850c-11ea-9e96-0a485e171229.png" width = 20%><img>
 <img src = "https://user-images.githubusercontent.com/52908154/80015607-f71a0200-850c-11ea-9098-d0213fbfad9d.png" width = 30%><img>
-
-
-![image](https://user-images.githubusercontent.com/52908154/80013583-11061580-850a-11ea-9313-82502557d8f3.png)
+<img src = "https://user-images.githubusercontent.com/52908154/80013583-11061580-850a-11ea-9313-82502557d8f3.png" width = 35%><img>
 
 * #### Variation by item
 
