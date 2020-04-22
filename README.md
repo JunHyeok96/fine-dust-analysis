@@ -16,7 +16,7 @@
 
 ### Distribution
 
-![image](https://user-images.githubusercontent.com/52908154/80013235-8ae9cf00-8509-11ea-8608-25ef6e41639c.png)
+![image](https://user-images.githubusercontent.com/52908154/80015798-347e8f80-850d-11ea-8609-2ec7b66c9b80.png)
 
 * #### Changes in distribution sales due to fine dust
 
@@ -30,8 +30,6 @@
 ![image](https://user-images.githubusercontent.com/52908154/80013461-e2883a80-8509-11ea-954a-8ab305e358c8.png)
 
 * ####  Consumption Changes due to Fine Dust
-
-![image](https://user-images.githubusercontent.com/52908154/80013488-ed42cf80-8509-11ea-84da-d01da5f3385b.png)
 
 
 <img src = "https://user-images.githubusercontent.com/52908154/80015571-e9647c80-850c-11ea-9e96-0a485e171229.png" width = 30%><img>
