@@ -38,6 +38,13 @@
 
 * #### Variation by item
 
+![image](https://user-images.githubusercontent.com/52908154/80016765-896ed580-850e-11ea-9656-55d7ffa24941.png)
+<img src = "https://user-images.githubusercontent.com/52908154/80016810-9c81a580-850e-11ea-96d8-bf6cc2a630a7.png" width = 30%><img>
+<img src = "https://user-images.githubusercontent.com/52908154/80016819-a0adc300-850e-11ea-9af9-65ee0564bf7c.png" width = 30%><img>
+<img src = "https://user-images.githubusercontent.com/52908154/80016845-a7d4d100-850e-11ea-8e4d-5831f8f3080a.png" width = 30%><img>
+
+* #### Percentage of sales by age/gender
+
 <img src = "https://user-images.githubusercontent.com/52908154/80015062-2b40f300-850c-11ea-96d1-3cca0782735c.png" width = 30%><img>
 <img src = "https://user-images.githubusercontent.com/52908154/80015075-309e3d80-850c-11ea-8dc4-a598550ee7d9.png" width = 30%><img>
 <img src = "https://user-images.githubusercontent.com/52908154/80015094-3562f180-850c-11ea-80f1-2930ae7d17ef.png" width = 30%><img>
