@@ -50,5 +50,5 @@
 ### Changes in the Flowing Population by Administrative Dong
 
 ![image](https://user-images.githubusercontent.com/52908154/80014845-db622c00-850b-11ea-8fe5-5bc4c92e9416.png)  
-* ####floating population by time/month
+* #### floating population by time/month
 
